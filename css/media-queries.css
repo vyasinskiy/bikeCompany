@@ -1,0 +1,17 @@
+@media (max-width: 900px){
+    header menu{
+      display: flex;
+      flex-direction: column;
+      text-align: center;
+    }
+    .work__block{
+      display: block;
+      width: 100%;
+    }
+    .work__item-long{
+      width: 100%;
+    }
+    .work__item-short{
+      width: 100%;
+    }
+}
